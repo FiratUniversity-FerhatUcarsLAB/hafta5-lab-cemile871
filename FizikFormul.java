@@ -1,5 +1,5 @@
 /*
- * Ad Soyad: [ADINIZI BURAYA YAZIN]
+ * Ad Soyad: [ADINIZI BURAYA YAZIN.]
  * Ogrenci No: [OGRENCI NUMARANIZI BURAYA YAZIN]
  * Tarih: [TARIHI BURAYA YAZIN]
  * Aciklama: Gorev 2 - Fizik Formulu Asistani
